@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Teja Gorantala</h1>
-<h3 align="center">I'm interested in Machine Learning and Data Science.</h3>
+<h3 align="center">I'm interested in Machine Learning, Data Science and Full Stack Developer.</h3>
 
 - 🔭 I’m currently working in the **Applied Vision Lab as a Research Assistant**
 
